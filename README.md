@@ -6,8 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-![Independent they are :p](https://i.imgur.com/YZ4BH9R.png) ------
-![Independent they are :p](https://i.imgur.com/VntQXHz.png)
+![Independent they are :p](https://cdn.dribbble.com/users/2137652/screenshots/6510521/travel_app__background__2x.png)
 
 A few resources to get you started if this is your first Flutter project:
 
