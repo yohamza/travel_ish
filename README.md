@@ -1,12 +1,10 @@
 # travel_ish
 
-A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
-![Independent they are :p](https://cdn.dribbble.com/users/2137652/screenshots/6510521/travel_app__background__2x.png)
+![Independent they are :p](https://cdn.dribbble.com/users/2137652/screenshots/6510521/travel_app__background__4x.png)
 
 A few resources to get you started if this is your first Flutter project:
 
